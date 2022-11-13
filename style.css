@@ -127,9 +127,6 @@ background-color: #1C1C1E;
 	display: block;
 }
 
-#infos_charge:target {
-	display: none;
-}
 
 p {
 	font-size: 2rem;
